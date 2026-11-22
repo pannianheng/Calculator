@@ -1,5 +1,7 @@
 import math
 import cmath
+import sys
+sys.set_int_max_str_digits(0)
 
 # ==================== Exact Simplification for Integer Square Roots ====================
 def simplify_int_sqrt(n):

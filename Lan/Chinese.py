@@ -1,6 +1,7 @@
 import math
 import cmath
-
+import sys
+sys.set_int_max_str_digits(0)
 # ==================== 整数根号精确化简 ====================
 def simplify_int_sqrt(n):
     """
